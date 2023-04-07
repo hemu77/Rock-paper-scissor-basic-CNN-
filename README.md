@@ -1,5 +1,5 @@
 # Rock-paper-scissor-basic-CNN-
-I learnt the neural networks ,and i thought of doing my first basic project related to this,and i did it.It took a lot of effort and hardwork
+I learnt the neural networks ,and i thought of doing my first basic project related to this,and i did it.It took a lot of effort and hardwork,cannot able to upload every file because it took too much space
 # Usage
 To use this project, follow these steps:
 Open the .ipynb notebook in Jupyter Notebook or Google Colab.
